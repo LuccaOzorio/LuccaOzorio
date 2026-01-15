@@ -1,23 +1,21 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7289DA&center=true&vCenter=true&width=435&lines=Lucca+Ozorio;Full+Stack+Developer;C%23+%7C+.NET+%7C+JavaScript" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7289DA&center=true&vCenter=true&width=435&lines=Lucca+Ozorio;Full+Stack+Developer;C%23+%7C+.NET+%7C+React" alt="Typing SVG" />
   </a>
 </div>
 
 <br>
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuccaOzorio&theme=tokyonight&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-committed-diff-past-month?username=LuccaOzorio&theme=tokyonight&hide_border=true" />
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LuccaOzorio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
-
-  <br><br>
-
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=LuccaOzorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000" />
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaOzorio&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuccaOzorio&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
@@ -25,16 +23,17 @@
 <h3 align="center">🛠️ Tech Stack & Ferramentas</h3>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css&theme=dark" /><br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,html,css&theme=dark" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=mongodb,gcp,docker,git,vscode,visualstudio&theme=dark" />
   </a>
 </div>
 
 <br>
 
-<h3 align="center">📅 Histórico de Contribuições</h3>
+<h3 align="center">📊 Atividade Semanal</h3>
 <div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuccaOzorio&theme=tokyonight&hide_border=true&bg_color=00000000">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/commit-team-graph?username=LuccaOzorio&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
