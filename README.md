@@ -8,9 +8,7 @@
 
 <div align="center">
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=LuccaOzorio&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuccaOzorio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&bg_color=0D1117" alt="GitHub Streak" />
 
   <br><br>
 
@@ -28,13 +26,6 @@
     <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,html,css&theme=dark" /><br>
     <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman&theme=dark" />
   </a>
-</div>
-
-<br>
-
-<h3 align="center">📅 Histórico de Contribuições</h3>
-<div align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuccaOzorio&theme=tokyonight&hide_border=true&bg_color=00000000">
 </div>
 
 <br>
