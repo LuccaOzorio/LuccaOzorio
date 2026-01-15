@@ -28,10 +28,7 @@
 
 ## 📊 Atividade no GitHub
 
-### 🌟 Contribuições Recentes
-![GitHub Skyline](https://skyline.github.com/LuccaOzorio/2024.gif)
-
-### 📈 Estatísticas Simples
+### 📈 Estatísticas
 <div align="center">
   
   ![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuccaOzorio&theme=github)
