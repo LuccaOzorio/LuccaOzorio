@@ -1,38 +1,60 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7289DA&center=true&vCenter=true&width=435&lines=Lucca+Ozorio;Full+Stack+Developer;C%23+%7C+.NET+%7C+React" alt="Typing SVG" />
-  </a>
-</div>
+# 👋 Olá, eu sou o Lucca Ozório!
 
-<br>
+**Desenvolvedor Full-Stack** focado em criar soluções eficientes e modernas com as melhores ferramentas disponíveis.
 
-<div align="center">
-  <img src="https://metrics.lecoq.io/LuccaOzorio?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&config.timezone=America%2FSao_Paulo&theme=tokyonight" alt="GitHub Metrics" width="100%">
-</div>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luccaozorio/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/lucca.ozorio)
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:luccaozorio272@gmail.com)
 
-<br>
+---
 
-<h3 align="center">🛠️ Tech Stack & Ferramentas</h3>
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,react,html,css,mongodb,gcp&theme=dark" />
-    <br>
-    <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman&theme=dark" />
-  </a>
-</div>
+## 🛠️ **Stack Técnica**
 
-<br>
+**Front-end & Full-Stack:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuccaOzorio&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
+**Back-end & Cloud:**
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?logo=googlecloud&logoColor=white)
 
-<br>
-<hr>
+**Ferramentas & Outros:**
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-<div align="center">
-  <a href="https://instagram.com/lucca.ozorio" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-  <a href="https://discord.gg/lucca272#0550" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"></a> 
-  <a href="https://www.linkedin.com/in/lucca-ozorio-nascimento-971244133/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:luccaozorio272@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</div>
+---
+
+## 📊 **GitHub Stats & Atividade**
+
+> **💡 Dica importante:** Para garantir que os gráficos abaixo sempre funcionem e não enfrentem limitações, **é altamente recomendável implantar sua própria instância** do serviço `github-readme-stats`. É gratuito e leva menos de 5 minutos usando o Vercel. [Siga o guia oficial aqui](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance). Depois, basta trocar a URL base nos códigos abaixo.
+
+### Minhas Estatísticas e Contribuições Recentes
+Esses gráficos mostram meu histórico de commits, contribuições e atividade geral no GitHub[citation:6].
+[![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccaozorio&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+
+### Tecnologias Mais Utilizadas
+Este gráfico reflete as linguagens e tecnologias que mais aparecem nos meus repositórios públicos[citation:6].
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccaozorio&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&hide=Procfile)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🌱 **Sobre Mim**
+
+Sou um desenvolvedor apaixonado por transformar problemas complexos em soluções de código elegante. Minha jornada começou no front-end com **HTML, CSS e JavaScript**, evoluiu para o ecossistema **React** e solidificou-se no back-end com **C# e .NET**.
+
+Atualmente, meu foco é construir aplicações escaláveis e de alto desempenho, integrando bancos de dados NoSQL como o **MongoDB** e utilizando plataformas de cloud como o **Google Cloud** para deploy e infraestrutura. Acredito na importância de um código limpo, testes robustos e na aprendizagem contínua.
+
+---
+
+## 📫 **Vamos conversar?**
+
+*   Me chame para um projeto, uma vaga ou apenas para trocar uma ideia sobre tecnologia!
+*   **Email:** [luccaozorio272@gmail.com](mailto:luccaozorio272@gmail.com)
+*   **LinkedIn:** [luccaozorio](https://www.linkedin.com/in/luccaozorio/)
+
+*"O único modo de fazer um excelente trabalho é amar o que você faz."* – Steve Jobs
