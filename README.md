@@ -31,15 +31,12 @@
 ### 🌟 Contribuições Recentes
 ![GitHub Skyline](https://skyline.github.com/LuccaOzorio/2024.gif)
 
-*Visual 3D dos seus commits - atualiza automaticamente*
-
 ### 📈 Estatísticas Simples
 <div align="center">
   
   ![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuccaOzorio&theme=github)
   ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuccaOzorio&theme=github)
   
-  *Atualizado automaticamente - sem configuração extra*
 </div>
 
 ---
@@ -48,9 +45,7 @@
 
 | Projeto | Stack | Descrição |
 |---------|-------|-----------|
-| **[API .NET Core]** | C#, MongoDB, Docker | API escalável com autenticação JWT |
-| **[Frontend React]** | React, CSS Modules | Dashboard administrativo responsivo |
-| **[Cloud Integration]** | GCP, .NET, React | Aplicação full-stack na nuvem |
+| **Trabalhando nisso...** | Em breve | Algo legal aqui |
 
 ---
 
