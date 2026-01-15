@@ -31,15 +31,13 @@
 
 ## 📊 **GitHub Stats & Atividade**
 
-> **💡 Dica importante:** Para garantir que os gráficos abaixo sempre funcionem e não enfrentem limitações, **é altamente recomendável implantar sua própria instância** do serviço `github-readme-stats`. É gratuito e leva menos de 5 minutos usando o Vercel. [Siga o guia oficial aqui](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own-vercel-instance). Depois, basta trocar a URL base nos códigos abaixo.
-
 ### Minhas Estatísticas e Contribuições Recentes
 Esses gráficos mostram meu histórico de commits, contribuições e atividade geral no GitHub[citation:6].
-[![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=luccaozorio&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaOzorio&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000)](https://github.com/LuccaOzorio/github-readme-stats)
 
 ### Tecnologias Mais Utilizadas
 Este gráfico reflete as linguagens e tecnologias que mais aparecem nos meus repositórios públicos[citation:6].
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luccaozorio&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&hide=Procfile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaOzorio&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&hide=Procfile)](https://github.com/LuccaOzorio/github-readme-stats)
 
 ---
 
