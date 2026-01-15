@@ -30,12 +30,15 @@
 
 ### 📈 Estatísticas
 <div align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuccaOzorio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&bg_color=0D1117" alt="GitHub Streak" />
   
   ![Estatísticas](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LuccaOzorio&theme=github)
   ![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuccaOzorio&theme=github)
   
+</div>
+
+<h3 align="center">📅 Histórico de Contribuições</h3>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuccaOzorio&theme=tokyonight&hide_border=true&bg_color=00000000">
 </div>
 
 ---
